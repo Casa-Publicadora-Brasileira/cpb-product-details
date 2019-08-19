@@ -1,0 +1,1 @@
+# cpb-product-details
